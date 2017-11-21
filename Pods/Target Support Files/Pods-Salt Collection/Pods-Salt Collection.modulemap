@@ -1,0 +1,6 @@
+framework module Pods_Salt_Collection {
+  umbrella header "Pods-Salt Collection-umbrella.h"
+
+  export *
+  module * { export * }
+}
